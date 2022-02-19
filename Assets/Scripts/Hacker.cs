@@ -43,7 +43,7 @@ public class Hacker : MonoBehaviour
         }
         else
         {
-            Terminal.WriteLine("Wrong Password!");
+            Terminal.WriteLine("Wrong Password PLlease try again.");
         }
     }
     void RunMainMenu(string input)
